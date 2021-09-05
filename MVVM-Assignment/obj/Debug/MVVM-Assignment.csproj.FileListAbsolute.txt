@@ -1,0 +1,16 @@
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\bin\Debug\MVVM-Assignment.exe.config
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\bin\Debug\MVVM-Assignment.exe
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\bin\Debug\MVVM-Assignment.pdb
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment.csproj.AssemblyReference.cache
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\Views\UserForm.g.cs
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\App.g.cs
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment_MarkupCompile.cache
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment_MarkupCompile.lref
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\Views\UserForm.baml
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment.g.resources
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM_Assignment.Properties.Resources.resources
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment.csproj.GenerateResource.cache
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment.csproj.CoreCompileInputs.cache
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment.exe
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\MVVM-Assignment.pdb
+C:\TRAINING\WPF-BhavanaMaam\MVVM-Assignment\MVVM-Assignment\obj\Debug\GeneratedInternalTypeHelper.g.cs
